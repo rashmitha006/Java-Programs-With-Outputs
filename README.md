@@ -21,3 +21,7 @@
 [1c_Linked Listdisplay elements and their positions in a linked list output-link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.d.png)
 
 [1c_Linked List that swaps two elements output-link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.e.png)
+
+[program 2 String operation output-link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p2.png)
+
+[program 2 String operation output-link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p2.1.png)
