@@ -24,10 +24,10 @@
 **Linkedlist_4**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.d.png)
 
 **LinkedList_5**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.e.png)
-
+# Program2_String_Operation
 **program 2 String operation output-link**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p2.png)
 
 **program 2 String operation output-link**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p2.1.png)
 
-# Program2_String_Operation
-**program2**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/H.png)
+# Exercise_program2
+#
