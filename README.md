@@ -60,6 +60,9 @@
 **program_3a**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Ex3.1.png)
 
 **program_3a**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Ex3.2.png)
+
+# program_3b 
+**program_3b**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p3b.png)
 # program_3a_Exercises
 **Exercise_1**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Ex3.1.png)
 
