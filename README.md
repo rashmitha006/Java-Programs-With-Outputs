@@ -100,3 +100,7 @@
 
 **program_5d**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p5d.png)
 
+# program_6
+**FactorialServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6.jpg)
+
+
