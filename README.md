@@ -111,3 +111,5 @@
 
 **Session Management**- (https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7.1.png)
 
+**Cookie Management**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7b.png)
+
