@@ -98,3 +98,5 @@
 
 **program_5c**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p5c.png)
 
+**program_5d**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p5d.png)
+
