@@ -84,4 +84,6 @@
 
 **Exercise_10**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Ex3.10.png)
 # program_4_Swing
-**program_4**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p4.png)
+**program_4a**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p4.png)
+
+**program_4b**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p4.b.png)
