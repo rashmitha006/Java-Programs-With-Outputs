@@ -103,4 +103,5 @@
 # program_6
 **FactorialServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6.jpg)
 
+**CookieServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6b.png)
 
