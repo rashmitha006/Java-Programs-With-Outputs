@@ -55,3 +55,7 @@
 **LinkedHashMap_3**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/LH3.png)
 
 **LinkedHashMap_4**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/LH4.png)
+
+# program_3a
+**program_3a**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p3.png)
+**program_3a**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p3.1.png)
