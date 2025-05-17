@@ -126,3 +126,9 @@
 **update_employee**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8d.1.png)
 
 **update_employee**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8d.2.png)
+
+# program_9
+**Mysql Selection and Deletion**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/9a.png)
+
+**Mysql Selection and Query**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/9b.png)
+
