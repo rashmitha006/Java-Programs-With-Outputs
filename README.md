@@ -114,9 +114,9 @@
 **Cookie Management**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7b.png)
 
 # program_8
-**Mysql_select**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8b.png)
+**Mysql_select**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p8b.png)
 
-**Mysql_Update**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8a.png)
+**Mysql_Update**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p8a.png)
 
 # Exercises_8
 **salary report**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8c.png)
@@ -128,9 +128,9 @@
 **update_employee**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8d.2.png)
 
 # program_9
-**Mysql Selection and Deletion**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p9a.png)
+**Mysql Selection and Deletion**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/9a.png)
 
-**Mysql Selection and Query**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p9b.png)
+**Mysql Selection and Query**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/9b.png)
 
 # Exercise_9
 
