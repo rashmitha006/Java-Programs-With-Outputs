@@ -33,16 +33,4 @@ public class PrimeCheckServlet extends HttpServlet {
         out.println("</body></html>");
     }
 }
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Prime Number Check</title>
-</head>
-<body>
-    <h2>Check Prime Number</h2>
-    <form action="PrimeCheckServlet" method="post">
-        Enter a number: <input type="text" name="number">
-        <input type="submit" value="Check">
-    </form>
-</body>
-</html>
+
