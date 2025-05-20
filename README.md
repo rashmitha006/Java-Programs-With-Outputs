@@ -114,9 +114,9 @@
 **Cookie Management**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7b.png)
 
 # program_8
-**Mysql_select**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p8b.png)
+**insert**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p8a.png)
 
-**Mysql_Update**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p8a.png)
+**UpdateCoffeee**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p8b.png)
 
 # Exercises_8
 **salary report**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8c.png)
