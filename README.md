@@ -46,13 +46,14 @@
 **HashMap_4** -> [link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/2_HashMap_Exercises/Hash4.png)
 
 # TreeMap
-**TreeMap_1**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Tree1.png)
+**TreeMap_1** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/2_TreeMap_Exercises/Tree1.png)
 
-**TreeMap_2**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Tree2.png)
+**TreeMap_2** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/2_TreeMap_Exercises/Tree2.png)
 
-**TreeMap_3**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Tree3.png)
+**TreeMap_3** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/2_TreeMap_Exercises/Tree3.png)
 
-**TreeMap_4**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/Tree4.png)
+**TreeMap_4** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/2_TreeMap_Exercises/Tree4.png)
+
 
 # LinkedHashMap
 **LinkedHashMap_1**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/LH1.png)
