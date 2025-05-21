@@ -17,17 +17,20 @@
 
 **ArrayList_5** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_ArrayList_Exercises/1b.e.png)
 
-# Exercise_program1_Linkedlist
-**LinkedList_1**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.a.png)
+## Exercise_program1_Linkedlist
 
-**LinkedList_2**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.b.png)
+**LinkedList_1** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_Linked%20List_Exercises/1c.a.png)
 
-**Linked List_3**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.c.png)
+**LinkedList_2** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_Linked%20List_Exercises/1c.b.png)
 
-**Linkedlist_4**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.d.png)
+**LinkedList_3** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_Linked%20List_Exercises/1c.c.png)
 
-**LinkedList_5**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1c.e.png)
+**LinkedList_4** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_Linked%20List_Exercises/1c.d.png)
+
+**LinkedList_5** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_Linked%20List_Exercises/1c.e.png)
+
 # Program2_String_Operation
+
 **program 2 String operation output-link**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p2.png)
 
 **program 2 String operation output-link**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p2.1.png)
