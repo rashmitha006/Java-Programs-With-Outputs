@@ -137,7 +137,10 @@
 
 **insert**->[Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8a_JDBCCoffee/p8a.png)
 
-**UpdateCoffeee**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p8b.png)
+# 8b_updateCoffee
+
+**UpdateCoffeee**->[Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8b_updateCoffee/p8b.png)
+
 
 # Exercises_8
 **salary report**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8c.png)
