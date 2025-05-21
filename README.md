@@ -123,7 +123,7 @@
 
 **CookieServlet** → [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/6b_CookieServlet/p6b.png)
 
-**PrimeCheckServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6c.png)
+**PrimeCheckServlet**->[Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/6c_PrimeCheckServlet/p6c.png)
 # program_7
 **Session Management**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7.png)
 
