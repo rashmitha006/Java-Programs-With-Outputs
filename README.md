@@ -143,7 +143,8 @@
 
 
 # Exercises_8
-**salary report**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8c.png)
+# 8c_JDBCEmployee
+**salary report**-[Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8c_JDBCEmployee/8c.png)
 
 **update_employee**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/8d.png)
 
