@@ -1,6 +1,6 @@
 ## program_3a_Exercises
 
-**Exercise_1** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/3a_String%20operation_Exercises/Ex3.1.png)
+**Exercise_1** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/3a_String%20operation_Exercises./Ex3.1.png)
 
 **Exercise_2** -> [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/3a_String%20operation_Exercises/Ex3.2.png)
 
