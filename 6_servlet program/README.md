@@ -1,3 +1,3 @@
 # program_6a
 
-**FactorialServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6.jpg)
+**FactorialServlet** → [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/6_servlet%20program/p6.jpg)
