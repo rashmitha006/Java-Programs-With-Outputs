@@ -125,9 +125,11 @@
 
 **PrimeCheckServlet**->[Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/6c_PrimeCheckServlet/p6c.png)
 # program_7
-**Session Management**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7.png)
+# program_7a_SessionManagement
 
-**Session Management**- (https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7.1.png)
+**Session Management (Part 1)** - [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/7a_Session_%20Management/p7.png)
+
+**Session Management (Part 2)** - [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/7a_Session_%20Management/p7.1.png)
 
 **Cookie Management**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p7b.png)
 
