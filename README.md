@@ -117,8 +117,9 @@
 
 **program_5d** → [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/5_Swing%20program/p5d.png)
 
-# program_6
-**FactorialServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6.jpg)
+# program_6a
+
+**FactorialServlet** → [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/6_servlet%20program/p6.jpg)
 
 **CookieServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6b.png)
 
