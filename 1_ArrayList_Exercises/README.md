@@ -1,5 +1,6 @@
 # Exercise_Program1_Arraylist
-**ArrayList_1**->([https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1ba.png](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_ArrayList%20and%20LinkedList/1ba.png))
+**ArrayList_1**->([https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1ba.png](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_ArrayList_Exercises
+/1ba.png))
 
 **ArrayList_2**->([https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1bb.png](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/1_ArrayList%20and%20LinkedList/1bb.png))
 
