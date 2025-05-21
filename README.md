@@ -121,7 +121,7 @@
 
 **FactorialServlet** → [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/6_servlet%20program/p6.jpg)
 
-**CookieServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6b.png)
+**CookieServlet** → [Link](https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/6b_CookieServlet/p6b.png)
 
 **PrimeCheckServlet**-(https://github.com/rashmitha006/Java-Programs-With-Outputs/blob/main/p6c.png)
 # program_7
